@@ -1,5 +1,6 @@
 import React from 'react';
 import Counter from './Counter';
+import Greetings from './Greeting';
 
 // Komponen Header 
 function Header() { 
@@ -29,12 +30,13 @@ function Footer() {
   ); 
 }
 
-// Komponen App yang menggunakan Header, Main, Counter dan Footer
+// Komponen App yang menggunakan Header, Main, Counter, Greetings, dan Footer
 function App() { 
   return ( 
     <div> 
       <Header /> 
       <Main /> 
+      <Greetings name="Tryo" />
       <Counter />
       <Footer /> 
     </div> 

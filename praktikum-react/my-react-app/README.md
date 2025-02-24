@@ -123,3 +123,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 5. Simpan file dan lihat perubahan di browser. Anda akan melihat tombol "Tambah" yang dapat meningkatkan hitungan saat diklik.
 <img src="assets/images/3.4.gif">
+
+
+## Praktikum 4: Menggunakan Props untuk Mengirim Data
+
+1. Buat file baru di direktori src dengan nama Greeting.js. 
+
+2. Tambahkan kode berikut untuk membuat komponen Greeting yang menerima props:
+<img src="assets/images/4.1.png">
+
+3. Buka file src/App.js dan impor komponen Greeting:
+<img src="assets/images/4.2.png">
+
+4. Tambahkan komponen Greeting ke dalam komponen App dan kirim props name:
+<img src="assets/images/4.3.png">
+
+5. Simpan file dan lihat perubahan di browser. Anda akan melihat pesan "Halo, Tryo!" yang ditampilkan oleh komponen Greeting.
+<img src="assets/images/4.4.png">
