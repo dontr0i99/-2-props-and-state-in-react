@@ -152,3 +152,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 3. Simpan file dan lihat perubahan di browser. Anda akan melihat form input yang dapat mengupdate state dan menampilkan data yang dimasukkan. 
 <img src="assets/images/5.3.gif">
+
+
+## Tugas Praktikum
+1. Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak. 
+2. Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input. 
+3. Implementasikan fitur untuk menghapus tugas dari daftar.
+
+### Kode
+<img src="assets/images/tugas1.png">
+<img src="assets/images/tugas2.png">
+
+### Hasil Output
+<img src="assets/images/tugas3.gif">
