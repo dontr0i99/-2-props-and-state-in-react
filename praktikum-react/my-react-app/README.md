@@ -84,7 +84,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Praktikum 1: Persiapan Lingkungan 
 
-1. Pastikan Node.js dan npm sudah terinstal di komputer Anda. Anda dapat memeriksanya dengan menjalankan perintah berikut di terminal atau command prompt: <img src="assets/images/1.1.png">
-2. Buat direktori baru untuk proyek React Anda: <img src="assets/images/1.2.png">
-3. Inisialisasi proyek React dengan menjalankan perintah berikut: <img src="assets/images/1.3.png"><img src="assets/images/1.4.png">
-4. Jalankan aplikasi React dengan perintah: <img src="assets/images/1.5.png">
+1. Pastikan Node.js dan npm sudah terinstal di komputer Anda. Anda dapat memeriksanya dengan menjalankan perintah berikut di terminal atau command prompt: 
+<img src="assets/images/1.1.png">
+
+2. Buat direktori baru untuk proyek React Anda: 
+<img src="assets/images/1.2.png">
+
+3. Inisialisasi proyek React dengan menjalankan perintah berikut: 
+<img src="assets/images/1.3.png"><img src="assets/images/1.4.png">
+
+4. Jalankan aplikasi React. <img src="assets/images/1.5.png">
+
+
+## Praktikum 2: Membuat Komponen React
+
+1. Buka file src/App.js di text editor Anda.
+<img src="assets/images/2.1.png">
+
+2. Ganti kode di dalamnya dengan kode berikut untuk membuat komponen sederhana:
+<img src="assets/images/2.2.png">
+
+3. Simpan file dan lihat perubahan di browser. Anda akan melihat tampilan sederhana dengan header, konten utama, dan footer.
+<img src="assets/images/2.3.png">
+
+
+## Praktikum 3: Menggunakan JSX untuk Membuat Komponen Dinamis 
+
+1. Buat file baru di direktori src dengan nama Counter.js. 
+
+2. Tambahkan kode berikut untuk membuat komponen Counter yang dinamis:
+<img src="assets/images/3.1.png">
+
+3. Buka file src/App.js dan impor komponen Counter:
+<img src="assets/images/3.2.png">
+
+4. Tambahkan komponen Counter ke dalam komponen App:
+<img src="assets/images/3.3.png">
+
+5. Simpan file dan lihat perubahan di browser. Anda akan melihat tombol "Tambah" yang dapat meningkatkan hitungan saat diklik.
+<img src="assets/images/3.4.gif">
