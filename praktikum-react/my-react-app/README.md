@@ -140,3 +140,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 5. Simpan file dan lihat perubahan di browser. Anda akan melihat pesan "Halo, Tryo!" yang ditampilkan oleh komponen Greeting.
 <img src="assets/images/4.4.png">
+
+
+## Praktikum 5: Menggunakan State untuk Mengelola Data
+
+1. Buka file src/App.js dan tambahkan kode berikut untuk membuat komponen yang mengelola state:
+<img src="assets/images/5.1.png">
+
+2. Tambahkan komponen Example ke dalam komponen App:
+<img src="assets/images/5.2.png">
+
+3. Simpan file dan lihat perubahan di browser. Anda akan melihat form input yang dapat mengupdate state dan menampilkan data yang dimasukkan. 
+<img src="assets/images/5.3.gif">
