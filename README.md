@@ -1,4 +1,4 @@
-# 📌 Repository Praktikum Pemrograman Berbasis Framework - Week 1
+# 📌 Repository Praktikum Pemrograman Berbasis Framework - Week 2
 
 Repository ini dibuat untuk memenuhi tugas dan praktikum dalam mata kuliah **Pemrograman Berbasis Framework**. Repository ini berisi berbagai implementasi kode yang menggunakan framework React dengan materi yang telah diberikan dalam perkuliahan di **JTI POLINEMA**.
 
